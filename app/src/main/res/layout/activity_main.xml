@@ -16,6 +16,7 @@
             android:layout_height="wrap_content"
             android:id="@+id/btnFragA"
             android:layout_weight="1"
+            android:layout_margin="2dp"
             android:text="Frag A"/>
 
 
@@ -24,12 +25,14 @@
             android:layout_height="wrap_content"
             android:id="@+id/btnFragB"
             android:layout_weight="1"
+            android:layout_margin="2dp"
             android:text="Frag B"/>
 
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:id="@+id/btnFragC"
+            android:layout_margin="2dp"
             android:layout_weight="1"
             android:text="Frag C"/>
 
